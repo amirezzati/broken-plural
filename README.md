@@ -2,16 +2,6 @@
 
 This repository demonstrates the use of Recurrent Neural Networks (RNN) to predict the **plural forms of Arabic singular words**. The model is implemented using **Keras** and leverages deep learning techniques to analyze Arabic morphology, focusing on the distinction between **broken plurals** and **sound plurals**.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Dataset Structure](#dataset-structure)
-- [Implementation Details](#implementation-details)
-  - [Libraries Used](#libraries-used)
-  - [Helper Functions](#helper-functions)
-  - [Model Architecture](#model-architecture)
-- [Results](#results)
-
 ## Overview
 
 Arabic plurals can be categorized into:
